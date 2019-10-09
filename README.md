@@ -5,7 +5,7 @@
 * Write classes that are related via the "belongs to" relationship. 
 
 ## Instructions
-
+a
 In this lab, you'll be coding a `Song` and `Artist` class. A song should belong to an artist. You'll also be coding a `Post` and `Author` class. A post should belong to an author. 
 
 * Artists should have a name. 
